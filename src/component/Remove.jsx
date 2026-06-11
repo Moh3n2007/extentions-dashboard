@@ -1,7 +1,7 @@
 const Remove = () => {
   return (
     <>
-      <div className="flex flex-col justify-center items-center border text-[]">
+      <div className="flex flex-col justify-center items-center border text-[] hidden">
         <p>Are you sure you want to remove this extension?</p>
 
         <div className="flex justify-center">
