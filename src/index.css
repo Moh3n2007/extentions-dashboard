@@ -3,7 +3,10 @@
 body{
     height: 100vh;
     background-color: var(--color-bgBody);
-    padding: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    
 }
 @theme{
     --color-text-100:#010b36;
@@ -11,4 +14,5 @@ body{
     --color-bg-100:hsl(0, 0%, 93%);
     --color-bg-red:hsl(3, 71%, 56%);
     --color-bgBody:#ebf4fb;
+    
 }
