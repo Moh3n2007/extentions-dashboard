@@ -1,11 +1,14 @@
-const App=()=>{
+import Header from "./component/Header";
 
-
- return (
-   <>
-     <Header />
-     <Main />
-     <Footer />
-   </>
- );
+const App = () => {
+  return (
+    <>
+      <Header />
+      <Main />
+      <Footer />
+    </>
+  );
 };
+
+
+export default App
