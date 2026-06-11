@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <>
-      <div className="flex justify-between bg-white rounded-[24px] p-[20px] dark: bg-[#2f364b] items-center border">
+      <div className="flex justify-between bg-white rounded-[24px] p-[20px] dark: bg-[#2f364b] items-center shadow-md ">
         <div className="flex justify-center">
           <svg
             xmlns="http://www.w3.org/2000/svg"
