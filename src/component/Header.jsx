@@ -30,7 +30,7 @@ const Header = () => {
           </svg>
         </div>
         <div>
-          <button className="border p-[15px] rounded-[13px]">
+          <button className=" p-[15px] rounded-[13px] bg-[#ededed] text-[#010b36]">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="moon-img"

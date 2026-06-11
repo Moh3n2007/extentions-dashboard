@@ -5,4 +5,7 @@ body{
 }
 @theme{
     --color-text-100:#010b36;
+    --color-text-200:hsl(226, 11%, 37%);
+    --color-bg-100:hsl(0, 0%, 93%);
+    --color-bg-red:hsl(3, 71%, 56%);
 }
