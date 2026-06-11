@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+body{
+    height: 100vh;
+}
+@theme{
+    --color-text-100:#010b36;
+}
