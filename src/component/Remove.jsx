@@ -1,7 +1,7 @@
 const Remove = () => {
   return (
     <>
-      <div className="flex flex-col justify-center items-center border-[3px] border-red-700 gap-[20px] w-[575px] h-[155px] rounded-[30px] bg-white hidden">
+      <div className="flex flex-col justify-center items-center border-[3px] border-red-700 gap-[20px] w-[575px] h-[155px] rounded-[30px] bg-white fixed top-[300px] left-120 hidden">
         <p className="font-bold text-[21px] text-[#010b36]">
           Are you sure you want to remove this extension?
         </p>
